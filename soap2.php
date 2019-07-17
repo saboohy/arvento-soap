@@ -6,9 +6,9 @@
 		'cache_wsdl'=>WSDL_CACHE_NONE,
 	);
 	$log = array(
-		'Username' => 'abagroup',
-		'PIN1' => '2303',
-		'PIN2' => '2303',
+		'Username' => 'username',
+		'PIN1' => 'pin1',
+		'PIN2' => 'pin2',
 		'Language' => '0'
 	);
 	try {
